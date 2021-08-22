@@ -34,6 +34,11 @@
 .carousel img{
     width: 100%;
 }
+.dangKi{
+   
+    width: 80%;
+    margin:30px auto;
+}
 .noiDungLopHoc{
     background-color: #1a274c;
 }
